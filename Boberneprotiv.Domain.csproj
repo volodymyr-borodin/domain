@@ -4,6 +4,7 @@
         <TargetFramework>netstandard1.0</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageVersion>0.0.1</PackageVersion>
+        <RootNamespace>Domain</RootNamespace>
     </PropertyGroup>
 
 </Project>
