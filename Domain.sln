@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain.csproj", "{7FFF4CAF-FF30-4DFD-8655-7E415C455161}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boberneprotiv.Domain", "Boberneprotiv.Domain.csproj", "{7FFF4CAF-FF30-4DFD-8655-7E415C455161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
